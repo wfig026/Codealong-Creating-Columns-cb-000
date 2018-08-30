@@ -41,10 +41,6 @@ figcaption {
 
 /* ID selector (apply to one unique element per page) */
 
-#logo { /* select elements with id="logo" */
-
-}
-
 /* Descendent Selector */
 
 #logo h1 { /* selects <h1> if inside the id="logo" */
